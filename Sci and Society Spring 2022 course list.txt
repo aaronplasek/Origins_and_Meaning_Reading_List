@@ -1,0 +1,114 @@
+BC1050: Women and Health | R. Jordan-Young
+BC1099: Science and Scientists | K. McCrink
+BC3052: Math and the City | M. Maulucci
+BC3058: Science in the City II | A. Hoard
+BC3300: Workshop in Sustainable Development | L. Brenner
+BC3334: Science, State Power and Ethics | T. Halpin-Healy
+BC3420: Privacy in a Networked World | R. Wright
+BC3851: Human Rights and Public Health | W. Brown
+GU4260: Food, Ecology, and Globalization | S. Akabas, S. Kross, E. Sterling
+GU4321: Human Nature: DNA, Race and Identity | M. Pollack, R. Pollack
+GU4411: Religion, Mind and Science Fiction | B. Faure
+GU4616: Technology, Religion, Future | D. Kittay
+GU4800: Language and Society | W. Foley
+UN1001: The Science of Psychology | P. Lindemann, S. Rosis
+UN1900: Introduction to Sustainable Development | J. Smerdon
+UN2103: Health-Related Topics in the Spanish-Speaking World | J. Cominguez
+UN2200: Introduction to GIS Methods | C. Siener
+UN2205: Introduction to Digital Music | D. Rodriguez
+UN2300: Challenges of Sustainable Development | L. Dale
+UN2950: Social History of American Public Health | J. Colgrove
+UN3200: Introduction to Public Health | D. March
+UN3450: Evolution of Intelligence and Consciousness | H. Terrace
+UN3880: Listening: An Ethnography of Sound | J. Pemberton
+UN3931: Life at the End of Life | C. Blinderman, R. Pollack
+BC1016: Introduction to Computational Thinking | A. Poliak
+BC2366: Climate and History | A. Caglioti
+BC3048: Introduction to Behavioral Economics | H. Zarghamee
+BC3946: Global Health, Politics, and Society | A. Zhou
+GR4962: Making and Knowing in Early Modern Europe | P. Smith
+GU4050: U.S. Water and Energy Policy | P. Gallay
+GU4135: Urban Ecology and Design | M. Palmer
+GU4201: Seminar in Biotechnology Development and Regulation | R. Guido
+GU4236: Machine Intelligence | T. Jerde
+GU4927: Mapping 19th Century New York | G. Baics, S. Wright
+UN1010: Statistical Thinking for Data Science | A. Donoghue
+UN1130: Genes and Development | T. Hazelrigg
+UN2000: Introduction to Environmental Law | P. Weinberg
+UN2230: History and Practice of Electronic Music | W. Dougherty
+UN3042: Youth in an Interconnected World | L. Neitzel
+UN3101: Introduction to Linguistics | J. McWhorter
+UN3160: The Body and Society | G. Jae
+UN3246: Medical Sociology | A. Zhou
+UN3310: Ethics of Sustainable Development | A. Gondek
+UN3355: Climate Change and Law | M. Gerrard
+UN3410: Cities and Sustainability | S. Watson
+UN3437: Corporate Behavior and Public Health | D. Rosner
+UN3811: Toxic | V. Agard-Jones
+W2901: Data: Past, Present, Future | Matthew Jones & Chris Wiggins
+BC2380: History of Food in Europe | D. Valenze
+BC3027: Urban Ecosystems | E. Cook
+BC3373: Health Psychology | T. Well
+BC3512: Pandemics and Politics | X. Lu
+BC3816: Shange and Digital Storytelling 2 | K. Hall
+GU4049: Climate and Empire | S. Ahsan
+GU4161: Ethics in Biopharmaceutical Patent and Regulatory Law | A. Morrison
+GU4242: Evolution of Language | H. Terrace
+GU4250: Climate Change: Resilience and Adaptation | L. Dale
+GU4305: Seminar in Biotechnology | L. Yamasaki
+GU4323: Utopia and the Pandemic | R. Goyal
+GU4325: Abolition Medicine | S. Dasgupta
+GU4340: Human Adaption | J. Manser
+GU4481: Science and Art in Archaeological Illustration | Z. Crossland
+GU4517: After the Human | M. Taylor
+GU4600: Human Rights in the Anthropocene | N. Chasin
+GU4728: Literature in the Age of Artificial Intelligence | Dennis Tenen
+GU4732: Matters of Life/Death | D. Rubenstien
+GU4802: Contradictions of Care: From Intimacy to Institution | A. Hegele
+UN3087: Conservation Biology | A. Moore
+UN3100: Fundamentals of Global Health | R. Moresky
+UN3400: Environmental Visualization of NYC | K. Baxi, M. McLagan
+UN3450: Spatial Analysis for Sustainable Development | K. Macmanus
+UN3576: Physics and Philosophy | D. Albert
+BC2950: Science, Technology, Power | Instructor TBD
+BC3016: Environmental Measurements | B. Mailloux
+BC3028: Volcanoes and the Environment | S. Rodriguez
+BC3050: Health Economics | M. Williams
+BC3120: The Politics of the Arctic | K. Marten
+BC3164: Trees of Knowledge | E. Grimm
+BC3370: Science, Environment and European Colonialism | A. Caglioti
+GU4050: Natural and Artificial Neural Networks | J. Morrison, C. Papadimitriou
+GU4127: Disease Ecology | M. Diuk-Wasser
+GU4236: Eco-Poetry | J. Albernaz
+GU4376: Phonetics and Phonology | M. Landman
+GU4401: Global Language Justice and Digital Sphere | I. Zaugg
+GU4510: Jacques Lacan | M. Coelen
+GU4558: Tibetan Science | A. Sehnalova
+GU4730: Science and Technology in Chinese Media | Y. Qian
+GU4747: Engineering the Modern Middle East | M. Elshakry
+GU4926: Spatial History Lab | B. Baics, S. Wright Kennedy
+UN1009: Global Warming for Global Leaders | B. Hoenisch, M. Raymo
+UN2978: Science and Pseudoscience: Alchemy to AI | P. Smith
+UN3114: Climate Impacts on Humans in NYC | N. Lenssen
+UN3122: AIDS and U.S. Society | L. Rosen
+UN3655: Gender and Public Health | J. Hirsch
+UN3665: The Politics of Care | G. Jae
+UN3893: The Bomb | K. Seeley
+A6815: Out of Date: Expired Patents and Their Unrealized Histories | A. Acciavatti
+UN3231: Rhetoric of Science | L. Dolling
+UN3252: Animals in the History of East Central Europe | M. Baar
+UN3386: Contagion and the Victorian Novel | D. Newby
+UN3389: American Extinctions | A. Yoon
+UN3422: Infrastructures of Power | R. Baker
+UN3437: Corporate Behavior and Public Health | D. Rosner
+UN3450: Evolution of Intelligence and Consciousness | H. Terrace
+UN3450: Spatial Analysis for Sustainable Development | K. Macmanus
+UN3497: Calculating Power: Knowledge, Technology and Risk | A. Plasek
+UN3529: Landscapes of American Modernity | E. Blackmar
+UN3572: The Climate Crisis: A History of the Present | L. Aronowsky
+UN3650: Mental Health in Literature | N. Kakkoufa
+UN3671: Motivation Science | F. Pinelli
+UN3811: Toxic | V. Agard-Jones
+UN3835: Air matters | M. Jos de Abreu
+UN3870: Philosophy and Artificial Intelligence | A. Richmond
+UN3880: Listening: An Ethnography of Sound | J. Pemberton
